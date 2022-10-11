@@ -6,11 +6,11 @@ uploaded in the data folder. This code has been scaled to process larger dataset
 1. task1.py performes data exploration and answers the following questions:
 
 A. The total number of reviews <br />
-B. The number of reviews in 2018
-C. The number of distinct users who wrote reviews
-D. The top 10 users who wrote the largest numbers of reviews and the number of reviews they wrote
-E. The number of distinct businesses that have been reviewed
-F. The top 10 businesses that had the largest numbers of reviews and the number of reviews they had
+B. The number of reviews in 2018 <br />
+C. The number of distinct users who wrote reviews <br />
+D. The top 10 users who wrote the largest numbers of reviews and the number of reviews they wrote <br />
+E. The number of distinct businesses that have been reviewed <br />
+F. The top 10 businesses that had the largest numbers of reviews and the number of reviews they had <br />
 
 The output of the above code can be found in the output folder.
 
